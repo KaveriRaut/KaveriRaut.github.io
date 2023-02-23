@@ -9,8 +9,5 @@
 - Tailwind CSS
 
 
-## 📽Video Demo :
-
-Here playing the video demo of Netflix2.0_Clone
-
-https://user-images.githubusercontent.com/97447480/209585676-87c38a87-9619-48d0-907d-94c15746dca6.mp4
+## 📽 Live Website :
+- https://kaveriraut.github.io/
