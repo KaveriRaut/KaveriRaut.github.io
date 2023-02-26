@@ -7,7 +7,6 @@
 ## 🛢Tech Stack Used : 
 - React JS
 - Tailwind CSS
-- HTML
 
 ## 📽 Live Website :
 - https://kaveriraut.github.io/
